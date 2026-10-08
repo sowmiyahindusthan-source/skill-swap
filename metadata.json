@@ -1,0 +1,6 @@
+{
+  "name": "SkillLink Local - Intelligent Skill & Service Exchange",
+  "description": "Intelligent peer-to-peer local skill discovery and service exchange platform with multi-factor matching, location radar, availability scheduling, and reputation scoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
